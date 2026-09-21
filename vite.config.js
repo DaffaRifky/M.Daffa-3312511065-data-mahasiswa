@@ -1,8 +1,7 @@
 import react from '@vitejs/plugin-react'
 import { defineConfig } from 'vite'
 
-// https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/<REPO>/",
+  base: '/M.Daffa-3312511065-data-mahasiswa/',
 })

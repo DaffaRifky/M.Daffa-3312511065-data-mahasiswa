@@ -6,7 +6,7 @@
   "homepage": "https://daffarifky.github.io/M.Daffa-3312511065-data-mahasiswa/",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
